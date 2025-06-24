@@ -1,0 +1,34 @@
+{
+  "division_01": {
+    "name": "General Requirements",
+    "subdivisions": {
+      "01 10 00": {
+        "name": "Summary",
+        "items": [
+          {
+            "item": "Project Signage",
+            "unit": "lump sum",
+            "price": 500.0,
+            "notes": "Temporary project signage per regulations"
+          }
+        ]
+      }
+    }
+  },
+  "division_02": {
+    "name": "Existing Conditions",
+    "subdivisions": {
+      "02 41 00": {
+        "name": "Demolition",
+        "items": [
+          {
+            "item": "Selective Demolition",
+            "unit": "sq ft",
+            "price": 1.25,
+            "notes": "Interior non-structural demo"
+          }
+        ]
+      }
+    }
+  }
+}
